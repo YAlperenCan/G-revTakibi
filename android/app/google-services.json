@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "371820492916",
+    "project_id": "gorev-takibi-aut",
+    "storage_bucket": "gorev-takibi-aut.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:371820492916:android:7161aadb2a6d675511b921",
+        "android_client_info": {
+          "package_name": "com.example.gorevtakibi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "371820492916-18gv1oeajop1p6v45s59rn0e2nv4jc53.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDExKk2o5Z6zRXB2xrgwqAsOjvAPUh4Vo8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "371820492916-18gv1oeajop1p6v45s59rn0e2nv4jc53.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
